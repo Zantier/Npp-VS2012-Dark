@@ -3,6 +3,8 @@ VS2012/2013 Dark Theme for Notepad++
 
 This is as close as I can get to a replica of the Visual Studio 2012's Dark theme in Notepad++. I created it to ease switching between files opened in Visual Studio and Notepad++. Particularly close attention has been paid to C, C++, and XML but a number of other languages have been tested.
 
+ASP has been changed to look more like other languages than how it looks in Visual Studio.
+
 Installation (per-machine)
 --------------------------
 
