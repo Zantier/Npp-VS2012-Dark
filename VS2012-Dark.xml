@@ -739,7 +739,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="1E1E1E" fgColor="DCDCDC" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="DCDCDC" fontStyle="0" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
     </GlobalStyles>
 </NotepadPlus>
