@@ -757,7 +757,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8000FF" fontStyle="0" />
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="008000" fontStyle="0" />
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFCAB0" fontStyle="0" />
-        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="0E3A6C" fgColor="DCDCDC" fontStyle="0" />
+        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="81AD7E" fgColor="DCDCDC" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="1E1E1E" fgColor="DCDCDC" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
