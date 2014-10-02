@@ -195,7 +195,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="11" fgColor="DCDCDC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="DCDCDC" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="DC89DC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
